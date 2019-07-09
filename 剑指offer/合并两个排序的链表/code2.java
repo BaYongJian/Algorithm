@@ -7,6 +7,7 @@ public class ListNode {
         this.val = val;
     }
 }*/
+//非递归方式
 public class Solution {
     public ListNode Merge(ListNode list1,ListNode list2) {
         ListNode dum=new ListNode(0);//新建一个链表dum，dum.val = 0，dum.next = null
