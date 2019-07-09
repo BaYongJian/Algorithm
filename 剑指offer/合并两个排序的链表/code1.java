@@ -7,6 +7,7 @@ public class ListNode {
         this.val = val;
     }
 }*/
+//递归方式
 public class Solution {
     public ListNode Merge(ListNode list1,ListNode list2) {
         ListNode list;
