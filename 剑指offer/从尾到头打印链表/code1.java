@@ -1,10 +1,10 @@
 public class Solution {
-    ArrayList<Integer> arrayList=new ArrayList<Integer>();
     public ArrayList<Integer> printListFromTailToHead(ListNode listNode) {
+        ArrayList<Integer> list=new ArrayList<Integer>();
         if(listNode!=null){
             printListFromTailToHead(listNode.next);
-            arrayList.add(listNode.val);
+            list.add(listNode.val);
         }
-        return arrayList;
+        return list;
     }
 }
