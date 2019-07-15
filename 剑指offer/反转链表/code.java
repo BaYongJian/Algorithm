@@ -9,7 +9,6 @@ public class ListNode {
 }*/
 public class Solution {
     public ListNode ReverseList(ListNode head) {
-        if(head==null) return null;
         ListNode pre = null;
         ListNode next = null;
         while(head!=null){
