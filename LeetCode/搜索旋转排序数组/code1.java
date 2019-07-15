@@ -12,6 +12,7 @@ class Solution {
         }else{
             return a + b;
         }
+        return -1;
     }
     
     //二分查找
