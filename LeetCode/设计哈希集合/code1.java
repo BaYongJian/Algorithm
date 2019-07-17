@@ -7,7 +7,7 @@ class MyHashSet {
     }
     
     public void add(int key) {
-        nums[key] = 1;
+        nums[key]++;
     }
     
     public void remove(int key) {
@@ -16,7 +16,7 @@ class MyHashSet {
     
     /** Returns true if this set contains the specified element */
     public boolean contains(int key) {
-        return nums[key] == 1;
+        return !(nums[key] == 0);
     }
 }
 
