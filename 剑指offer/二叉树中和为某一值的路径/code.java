@@ -27,7 +27,7 @@ public class Solution {
         return list;
     }
     
-    public void findpath(TreeNode root,int target,int sum,ArrayList list1){
+    public void findpath(TreeNode root,int target,int sum,ArrayList<Integer> list1){
         if(root != null) {
             list1.add(root.val);
             sum += root.val;
