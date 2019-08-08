@@ -16,6 +16,14 @@ public class Solution {
         if(root == null) return list;
         int sum = 0;
         findpath(root,target,sum,new ArrayList<>());
+        Collections.sort(list, new Comparator<ArrayList<Integer>>() {
+            @Override
+            public int compare(ArrayList<Integer> o1, ArrayList<Integer> o2) {
+                if (o1.size()<o2.size()){
+                    return 1;
+                }else return -1;
+            }
+        });
         return list;
     }
     
