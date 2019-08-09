@@ -1,10 +1,10 @@
 public class Solution {
-    long num = 0;
+    int num = 0;
     public int InversePairs(int [] array) {
         if(array == null || array.length == 0) return -1;
         if(array.length == 1) return 1;
         mergeSortCounting(array,0,array.length - 1);
-        return (int)num%1000000007;
+        return num%1000000007;
     }
     
     public void mergeSortCounting(int[] array,int start,int end){
