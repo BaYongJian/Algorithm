@@ -124,7 +124,7 @@
 
 [二叉搜索树的第k个结点](https://github.com/BaYongJian/Algorithm/tree/master/%E5%89%91%E6%8C%87offer/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E7%9A%84%E7%AC%ACk%E4%B8%AA%E7%BB%93%E7%82%B9)  
 
-[数据流中的中位数]()  
+[数据流中的中位数](https://github.com/BaYongJian/Algorithm/tree/master/%E5%89%91%E6%8C%87offer/%E6%95%B0%E6%8D%AE%E6%B5%81%E4%B8%AD%E7%9A%84%E4%B8%AD%E4%BD%8D%E6%95%B0)  
 
 [滑动窗口的最大值](https://github.com/BaYongJian/Algorithm/tree/master/%E5%89%91%E6%8C%87offer/%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3%E7%9A%84%E6%9C%80%E5%A4%A7%E5%80%BC)  
 
