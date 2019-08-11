@@ -177,7 +177,7 @@
 
 [左旋转字符串](https://github.com/BaYongJian/Algorithm/tree/master/%E5%89%91%E6%8C%87offer/%E5%B7%A6%E6%97%8B%E8%BD%AC%E5%AD%97%E7%AC%A6%E4%B8%B2)  
 
-[翻转单词顺序列]()  
+[翻转单词顺序列](https://github.com/BaYongJian/Algorithm/tree/master/%E5%89%91%E6%8C%87offer/%E7%BF%BB%E8%BD%AC%E5%8D%95%E8%AF%8D%E9%A1%BA%E5%BA%8F%E5%88%97)  
 
 [扑克牌顺子](https://github.com/BaYongJian/Algorithm/tree/master/%E5%89%91%E6%8C%87offer/%E6%89%91%E5%85%8B%E7%89%8C%E9%A1%BA%E5%AD%90)  
 
