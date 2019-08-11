@@ -141,7 +141,7 @@
 
 [复杂链表的复制](https://github.com/BaYongJian/Algorithm/tree/master/%E5%89%91%E6%8C%87offer/%E5%A4%8D%E6%9D%82%E9%93%BE%E8%A1%A8%E7%9A%84%E5%A4%8D%E5%88%B6)  
 
-[二叉搜索树与双向链表]()  
+[二叉搜索树与双向链表](https://github.com/BaYongJian/Algorithm/tree/master/%E5%89%91%E6%8C%87offer/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%8E%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8)  
 
 [字符串的排列]()  
 
