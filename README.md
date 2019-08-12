@@ -153,7 +153,7 @@
 
 [最小的K个数](https://github.com/BaYongJian/Algorithm/tree/master/%E5%89%91%E6%8C%87offer/%E6%9C%80%E5%B0%8F%E7%9A%84k%E4%B8%AA%E6%95%B0)  
 
-[连续子数组的最大和]()  
+[连续子数组的最大和](https://github.com/BaYongJian/Algorithm/tree/master/%E5%89%91%E6%8C%87offer/%E8%BF%9E%E7%BB%AD%E5%AD%90%E6%95%B0%E7%BB%84%E7%9A%84%E6%9C%80%E5%A4%A7%E5%92%8C)  
 
 [整数中1出现的次数（从1到n整数中1出现的次数）](https://github.com/BaYongJian/Algorithm/tree/master/%E5%89%91%E6%8C%87offer/%E6%95%B4%E6%95%B0%E4%B8%AD1%E5%87%BA%E7%8E%B0%E7%9A%84%E6%AC%A1%E6%95%B0)  
 
