@@ -147,7 +147,7 @@
 
 [二叉搜索树与双向链表](https://github.com/BaYongJian/Algorithm/tree/master/%E5%89%91%E6%8C%87offer/%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91%E4%B8%8E%E5%8F%8C%E5%90%91%E9%93%BE%E8%A1%A8)  
 
-[字符串的排列]()  
+[字符串的排列](https://github.com/BaYongJian/Algorithm/tree/master/%E5%89%91%E6%8C%87offer/%E5%AD%97%E7%AC%A6%E4%B8%B2%E7%9A%84%E6%8E%92%E5%88%97)  
 
 [数组中出现次数超过一半的数字](https://github.com/BaYongJian/Algorithm/tree/master/%E5%89%91%E6%8C%87offer/%E6%95%B0%E7%BB%84%E4%B8%AD%E5%87%BA%E7%8E%B0%E6%AC%A1%E6%95%B0%E8%B6%85%E8%BF%87%E4%B8%80%E5%8D%8A%E7%9A%84%E6%95%B0%E5%AD%97)  
 
